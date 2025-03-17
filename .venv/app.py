@@ -45,7 +45,7 @@ with st.sidebar:
         - [API Key makersuite](https://makersuite.google.com/)
     """)
     add_vertical_space(4)
-    st.write("Hecho con ❤ por Prajwal Krishna.")
+    st.write("Ats_company.")
 
 st.title("Smart Application Tracking System")
 st.text("Mejore su currículum ATS")
