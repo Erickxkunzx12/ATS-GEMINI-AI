@@ -47,7 +47,7 @@ with st.sidebar:
     """)
     add_vertical_space(4)
     st.write("LOCHER_ATS")
-
+    
 st.title("Sistema AI para análisis de Currículums")
 st.text("Mejore su currículum ATS")
 
