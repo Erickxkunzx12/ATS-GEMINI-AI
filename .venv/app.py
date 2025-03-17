@@ -36,7 +36,7 @@ Responde en formato JSON con las siguientes claves:
 
 # Streamlit app
 with st.sidebar:
-    st.image("LOCHER.jpg", width=300)
+    st.image("/LOCHER.jpg", width=300)
     st.title("Smart ATS para Currículums")
     st.subheader("Acerca de")
     st.write("Este proyecto de ATS sofisticado, desarrollado con Gemini Pro y Streamlit, incorpora a la perfección funciones avanzadas que incluyen porcentaje de coincidencia de currículum, análisis de palabras clave para identificar criterios faltantes y la generación de resúmenes de perfiles completos, lo que mejora la eficiencia y la precisión del proceso de evaluación de candidatos para profesionales exigentes de adquisición de talento.")
